@@ -3,16 +3,13 @@ Resumo do projeto:
 
 🔨 Funcionalidades do projeto:
 
-Funcionalidade 1:
+Funcionalidade 1:5 vidas paa o personagem
 
-Funcionalidade 2:
+Funcionalidade 2:Game Over 
 
-Funcionalidade 3:
+Funcionalidade 3:Vitoria ao atingir o objetivo principal do jogo
 
-Funcionalidade 4:
-
-Funcionalidade 5:
-
+Funcionalidade 4:Peseguição por Bots(Inimigos)
 
 ✔️ Técnicas e tecnologias utilizadas:Pygame,Python
 

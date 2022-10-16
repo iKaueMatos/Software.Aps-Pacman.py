@@ -28,7 +28,7 @@ Selecione a opção para sua area de trabalho:
 ![area de trabalho](https://user-images.githubusercontent.com/98132837/196014711-3c03b4ba-c946-4197-8a06-6fde90438e4a.jpg)
 
 
-logo em seguida você pode abrir a pasta extraida e vai procurar pela pasta Build
+Logo em seguida você pode abrir a pasta extraida e vai procurar pela pasta Build
 
 ![Manual](https://user-images.githubusercontent.com/98132837/196042703-9f921391-3b08-4a76-8d51-80dfb49386aa.jpg)
 

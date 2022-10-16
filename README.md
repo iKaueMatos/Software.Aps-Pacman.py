@@ -56,7 +56,7 @@ Selecione a opção para sua area de trabalho:
 
 logo em seguida você pode abrir a pasta extraida e vai procurar pelo arquivo aps.exe
 
-![image](https://user-images.githubusercontent.com/98132837/196014753-0ed8a2a8-487a-4c63-9d23-2d79c807c361.png)
+![aps foto](https://user-images.githubusercontent.com/98132837/196014810-2aa93837-1cb3-4b68-a6fa-80475714934c.jpg)
 
 
 Após isso você clicar no arquivo e o Mini game sera inicializado na sua maquina.

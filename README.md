@@ -32,7 +32,7 @@ Como instalar Esse Mini-Game na sua maquina?
 
 # Manual de instalação 
 
-Windows:
+WINDOWS:
 
 # 1 PASSO:
 

@@ -29,10 +29,15 @@ Imagem do projeto:
 Como instalar Esse Mini-Game na sua maquina?
 
 
+
+# Manual de instalação 
+
+Windows:
+
 # 1 PASSO:
 
 Faça o Downlonad desse repositorio por meio da opção Code que aparece do lado direito clicando em cima dessa opção irar abrir uma serie de opções E você ira clicar em Downlonad Zip dessa maneira ira compilar todos os aquivos em uma unica pasta! 
 
 # 2 PASSO:
 
-Após ter feito o download na sua maquina você ira extrair para sua area de trabalho,logo em seguida você pode abrir a pasta extraida e vai procurar pelo arquivo aps.exe,após você clicalar no arquivo o Mini game sera rodado na sua maquina.
+Após ter feito o download na sua maquina você ira extrair para sua area de trabalho,logo em seguida você pode abrir a pasta extraida e vai procurar pelo arquivo aps.exe,após você clicar no arquivo o Mini game sera rodado na sua maquina.

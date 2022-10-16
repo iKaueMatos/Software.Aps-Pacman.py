@@ -3,7 +3,7 @@ Resumo do projeto:Olá pessoal tudo bem com vocês? esse projeto foi desenvolvid
 Objetivo principal do game: Basicamente o objetivo principal desse game e coletar as moedas de credito de carbono que são ilustradas por meio de uma bolinhas verdes que são as moedas de credito de carbono,Coletando todas as moedas do Game você consegue obter a vitoria,Caso voce nao consiga coletar as moedas ou seja atingido por um dos nossos inimigos(fantasmas) Você perdera uma vida e assim que você atingir (0 vidas) o jogo ira acabar aparecendo (Game Over)
 
 
-🔨 Funcionalidades do projeto:
+#🔨 Funcionalidades do projeto:
 
 Funcionalidade 1:5 vidas paa o personagem
 
@@ -15,9 +15,26 @@ Funcionalidade 4:Peseguição por Bots(Inimigos)
 
 ✔️ Técnicas e tecnologias utilizadas:Pygame,Python
 
+# Requisitos para Instalação do Mini-game na sua maquina:
+
+Hardware:
+
+* Processador INTEL CELERON INSIDE
+* Sistema operacional:Windows Xp 64 Bits ou 32 Bits - Requisito Minimo
+* Memoria RAM: 2 GB RAM 
+* Placa de video:Não e necessario 
+
+# Requisitos para a visualização do codigo:
+
+- É necessario ter instaldo na sua maquina:
+
+* IDE - Pycharm ou Visual Studio 
+* Biblioteca - Pygame
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando aqui.
+Você pode acessar os arquivos do projeto clicando em Pacman.py .
 
 
 Imagem do projeto:

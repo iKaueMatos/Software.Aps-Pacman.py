@@ -36,8 +36,27 @@ Windows:
 
 # 1 PASSO:
 
-Faça o Downlonad desse repositorio por meio da opção Code que aparece do lado direito clicando em cima dessa opção irar abrir uma serie de opções E você ira clicar em Downlonad Zip dessa maneira ira compilar todos os aquivos em uma unica pasta! 
+Faça o Downlonad desse repositorio por meio da opção Code que aparece do lado direito clicando em cima dessa opção irar abrir uma serie de opções 
+![image](https://user-images.githubusercontent.com/98132837/196014539-2501b702-c0d9-4d15-bef1-2d7fcb6605af.png)
+
+Logo em seguida você ira clicar em Downlonad Zip dessa maneira ira compilar todos os aquivos em uma unica pasta! e efetuar o Downlonad na sua maquina  
 
 # 2 PASSO:
 
-Após ter feito o download na sua maquina você ira extrair para sua area de trabalho,logo em seguida você pode abrir a pasta extraida e vai procurar pelo arquivo aps.exe,após você clicar no arquivo o Mini game sera rodado na sua maquina.
+Após ter feito o download na sua maquina você ira extrair 
+
+![Extrair](https://user-images.githubusercontent.com/98132837/196014656-d9d3cc89-9f83-4265-8e14-30db5f0c5fa4.jpg)
+
+
+
+Selecione a opção para sua area de trabalho:
+
+![area de trabalho](https://user-images.githubusercontent.com/98132837/196014711-3c03b4ba-c946-4197-8a06-6fde90438e4a.jpg)
+
+
+logo em seguida você pode abrir a pasta extraida e vai procurar pelo arquivo aps.exe
+
+![image](https://user-images.githubusercontent.com/98132837/196014753-0ed8a2a8-487a-4c63-9d23-2d79c807c361.png)
+
+
+Após isso você clicar no arquivo e o Mini game sera inicializado na sua maquina.

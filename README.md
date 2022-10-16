@@ -36,7 +36,9 @@ Windows:
 
 # 1 PASSO:
 
-Faça o Downlonad desse repositorio por meio da opção Code que aparece do lado direito clicando em cima dessa opção irar abrir uma serie de opções 
+Faça o Downlonad desse repositorio por meio da opção Code que aparece do lado direito clicando em cima dessa opção irar abrir uma serie de opções
+
+
 ![image](https://user-images.githubusercontent.com/98132837/196014539-2501b702-c0d9-4d15-bef1-2d7fcb6605af.png)
 
 Logo em seguida você ira clicar em Downlonad Zip dessa maneira ira compilar todos os aquivos em uma unica pasta! e efetuar o Downlonad na sua maquina  

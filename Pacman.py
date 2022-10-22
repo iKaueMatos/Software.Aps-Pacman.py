@@ -57,10 +57,10 @@ class Movivel(metaclass=ABCMeta):
 #-------------Cenario -----------------------
 class Cenario(ElementoJogo):
     def __init__(self, tamanho, pac):
-        self.vidas = 5
+        self.vidas = 3
         self.pacman = pac
         self.moviveis = []
-        self.pontos = 0
+        self.pontos = -200
         self.objetivo = 0
         # Estados possiveis 0-Jogando 1-Pausado 2-GameOver  3-Vitoria
         self.estado = 0
@@ -107,10 +107,18 @@ class Cenario(ElementoJogo):
 
     def pintar_pontos_vidas(self, tela):
         pontos_x = self.tamanho * 29
-        pontos_img = font.render("Moeda de credito carbono: {} ".format(self.pontos), True, VERDE)
+
+        if (self.pontos >= 1):
+            pontos_img = font.render("Moeda de credito carbono: {} ".format(self.pontos), True, VERDE)
+        else:
+            pontos_img = font.render("Moeda de credito carbono: {} ".format(self.pontos), True, VERMELHO)
+
         vidas_img = font.render("Vidas {}".format(self.vidas),True,BRANCO)
         tela.blit(vidas_img,(pontos_x,100))
         tela.blit(pontos_img, (pontos_x, 20))
+
+
+
 
 # < ----------------------FIM --------------------->
     def pintar_linha(self, tela, numero_linha, linha):
@@ -149,7 +157,7 @@ class Cenario(ElementoJogo):
         tela.blit(texto_img, (texto_x, texto_y))
 
     def pintar_vitoria(self, tela):
-        self.pintar_texto_centro(tela, "P A R A B E N S  V O C E  V E N C E U  ! ! !")
+        self.pintar_texto_centro(tela, "P A R Á B E N S  V O C Ê  V E N C E U  ! ! !")
 
     def pintar_gameover(self, tela):
         self.pintar_texto_centro(tela, "G A M E   O V E R")

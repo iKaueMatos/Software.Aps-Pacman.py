@@ -9,7 +9,7 @@ from pygame.surface import Surface, SurfaceType
 pygame.init()
 
 screen = pygame.display.set_mode((800, 600), 0)
-font = pygame.font.SysFont("arial", 14, True, False)
+font = pygame.font.SysFont("arial", 12, True, False)
 
 AMARELO = (255, 255, 0)
 PRETO = (0, 0, 0)
@@ -109,9 +109,9 @@ class Cenario(ElementoJogo):
         pontos_x = self.tamanho * 29
 
         if (self.pontos >= 1):
-            pontos_img = font.render("Moeda de credito carbono: {} ".format(self.pontos), True, VERDE)
+            pontos_img = font.render("Credito carbono Positivo: {} ".format(self.pontos), True, VERDE)
         else:
-            pontos_img = font.render("Moeda de credito carbono: {} ".format(self.pontos), True, VERMELHO)
+            pontos_img = font.render("Credito carbono Negativo: {} ".format(self.pontos), True, VERMELHO)
 
         vidas_img = font.render("Vidas {}".format(self.vidas),True,BRANCO)
         tela.blit(vidas_img,(pontos_x,100))

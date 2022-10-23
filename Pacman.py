@@ -109,7 +109,12 @@ class Cenario(ElementoJogo):
         pontos_x = self.tamanho * 29
 
         if (self.pontos >= 1):
+            def pintar_pausado(self, tela):
+                self.pintar_texto_centro(tela, "PARABÉNS SEU CREDIDO AGORA E POSITIVO \n"
+                                               "Aperte P para continuar")
+                pintar_pausado(self, tela)
             pontos_img = font.render("Credito carbono Positivo: {} ".format(self.pontos), True, VERDE)
+
         else:
             pontos_img = font.render("Credito carbono Negativo: {} ".format(self.pontos), True, VERMELHO)
 

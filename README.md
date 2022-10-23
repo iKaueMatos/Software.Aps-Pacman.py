@@ -1,6 +1,6 @@
-Resumo do projeto:Olá pessoal tudo bem com vocês? esse projeto foi desenvolvido com a perrogativa de solucionar um ilustrar o que estamos enfrentando hoje em dia de uma maneira divertida por meio de um mini-game inspirado no Pacman..
+Resumo do projeto:Olá pessoal tudo bem com vocês? esse projeto foi desenvolvido com intuito de ilustrar o mercado de credito de carbono onde basicmanete as empresas que tem depositos de creditos negativos na sua conta podem comprar creditos positivos para emitir mais gás carbonico na atmosfera
 
-Objetivo principal do game: Basicamente o objetivo principal desse game e coletar as moedas de credito de carbono que são ilustradas por meio de uma bolinhas verdes que são as moedas de credito de carbono,Coletando todas as moedas do Game você consegue obter a vitoria,Caso voce nao consiga coletar as moedas ou seja atingido por um dos nossos inimigos(fantasmas) Você perdera uma vida e assim que você atingir (0 vidas) o jogo ira acabar aparecendo (Game Over)
+Objetivo principal do game: Basicamente o objetivo do playere coletar todas as moedas do cenario mais antes disso o player vai ter um desafio para ser enfretado o jogador começara com saldo negativo de credito de carbono e ao decorrer do jogo ele tem que atingir a quantidade ilustrada no game de (credito de carbono negativos),Devemos ressaltar que o jogador tem inimigos e que ele tem somente 3 vidas para coletar todos os credito de carbono negativos do mapa ilustradas no game e após coletar todas essas moedas ele passara a coletar creditos positivos onde ilustra a compra de credito de carbono no mercado após coletar todas o jogador ira vencer o game.
 
 
 # Funcionalidades do projeto 🔨:
@@ -12,6 +12,8 @@ Funcionalidade 2:Game Over
 Funcionalidade 3:Vitoria ao atingir o objetivo principal do jogo
 
 Funcionalidade 4:Peseguição por Bots(Inimigos)
+
+Funcionalidade 5: Pausar o game com Tecla P do teclado 
 
 ✔️ Técnicas e tecnologias utilizadas:Pygame,Python
 
@@ -39,7 +41,8 @@ Você pode acessar os arquivos do projeto clicando em Pacman.py .
 
 Imagem do projeto:
 
-![Pacman_img](https://user-images.githubusercontent.com/98132837/193543958-7ebe63f4-c3f4-4daa-bcaa-1562ec75bb35.jpg)
+![Sem título](https://user-images.githubusercontent.com/98132837/197368861-99b3a460-b08b-4aa7-afce-e6210ddd3bfb.jpg)
+
 
 
 

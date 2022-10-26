@@ -1,5 +1,20 @@
-Como instalar Esse Mini-Game na sua maquina?
+# Requisitos para Instalação do Mini-game na sua maquina:
 
+Hardware:
+
+* Processador INTEL CELERON INSIDE
+* Sistema operacional:Windows Xp 64 Bits ou 32 Bits - Requisito Minimo
+* Memoria RAM: 2 GB RAM 
+* Placa de video:Não e necessario 
+
+# Requisitos para a visualização do codigo:
+
+- É necessario ter instaldo na sua maquina:
+
+* IDE - Pycharm ou Visual Studio 
+* Biblioteca - Pygame
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Manual de instalação 
